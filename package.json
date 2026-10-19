@@ -1,0 +1,8 @@
+{
+  "name": "alia-manzoor-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alia Manzoor's portfolio, built from the supplied design brief.",
+  "scripts": {"dev": "node scripts/serve.mjs", "start": "node scripts/serve.mjs", "build": "node scripts/check.mjs", "check": "node scripts/check.mjs"},
+  "engines": {"node": ">=18"}
+}
